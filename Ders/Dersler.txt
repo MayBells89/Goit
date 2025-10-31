@@ -4,3 +4,5 @@ master branch'inde yapılan işlem, burada conflict olacak
 muge branch'inde yapılan işlem
 
 son eklenen değişiklik
+
+yeni
