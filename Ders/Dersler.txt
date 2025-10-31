@@ -1,1 +1,10 @@
+<<<<<<< HEAD
 may dalında yeni işlem
+=======
+master branch'inde yapılan işlem, burada conflict olacak
+
+
+muge branch'inde yapılan işlem
+
+son eklenen değişiklik
+>>>>>>> master
