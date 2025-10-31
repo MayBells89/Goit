@@ -7,4 +7,9 @@ master branch'inde yapılan işlem, burada conflict olacak
 muge branch'inde yapılan işlem
 
 son eklenen değişiklik
+<<<<<<< HEAD
 >>>>>>> master
+=======
+
+yeni
+>>>>>>> c973f8c09e20e7f0a7e7b66f49a820a1f7c60988
